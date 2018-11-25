@@ -1,0 +1,88 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="E:/ud120-projects-master/svm/svm_author_id.py" timestamp="1537084307062">
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="30" column="8" />
+        <mark key="." line="30" column="8" />
+      </file>
+      <file name="E:/ud120-projects-master/svm/periodic.py" timestamp="1537084868341">
+        <mark key="'" line="0" column="11" />
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
+      <file name="E:/periodic.py" timestamp="1537087885023">
+        <mark key="[" line="1" column="1" />
+        <mark key="]" line="1" column="1" />
+        <mark key="." line="1" column="1" />
+      </file>
+      <file name="E:/ud120-projects-master/decision_tree/dt_author_id.py" timestamp="1537094878698">
+        <mark key="[" line="29" column="23" />
+        <mark key="]" line="29" column="23" />
+        <mark key="." line="29" column="23" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="2" column="11" filename="E:/ud120-projects-master/svm/periodic.py" />
+    </jumps>
+    <registers>
+      <register name="1" type="4">
+        <text encoding="base64">CgoK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CgoK</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CnogPSBsaXN0KHByZWRpY3Rpb25zKQ==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CnByaW50KGNsZi5zY29yZShmZWF0dXJlc190ZXN0LCBsYWJlbHNfdGVzdCkp</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CmZlYXR1cmVzX3RyYWluID0gZmVhdHVyZXNfdHJhaW5bOmludChsZW4oZmVhdHVyZXNfdHJhaW4pLzEwMCldCmxhYmVsc190cmFpbiA9IGxhYmVsc190cmFpbls6aW50KGxlbihsYWJlbHNfdHJhaW4pLzEwMCld</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CmFuc3dlcj1wcmVkaWN0aW9uc1sxMDBd</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CmZlYXR1cmVzX3RyYWluID0gZmVhdHVyZXNfdHJhaW5bOmludChsZW4oZmVhdHVyZXNfdHJhaW4pLzEwMCldCmxhYmVsc190cmFpbiA9IGxhYmVsc190cmFpbls6aW50KGxlbihsYWJlbHNfdHJhaW4pLzEwMCld</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CnByaW50KHJvdW5kKHRpbWUoKS10MCkp</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CnN5cy5wYXRoLmFwcGVuZCgiLi4vdG9vbHMvIik=</text>
+      </register>
+      <register name="-" type="4">
+        <text>#</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
